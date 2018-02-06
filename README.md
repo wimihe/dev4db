@@ -1,2 +1,3 @@
-# dev4db
-dev4db
+# dev4ops
+
+开发工具及环境: PyCharm, Python3.6
